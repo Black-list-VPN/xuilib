@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "xuilib"
-version = "3.4.2"
+version = "3.x"
 description = "A client library for accessing 3X-UI Panel API"
 authors = []
 readme = "README.md"
