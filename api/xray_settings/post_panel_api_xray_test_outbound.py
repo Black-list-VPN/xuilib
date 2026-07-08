@@ -7,7 +7,7 @@ from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_xray_test_outbound_body import PostPanelApiXrayTestOutboundBody
 from ...models.post_panel_api_xray_test_outbound_response_200 import PostPanelApiXrayTestOutboundResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

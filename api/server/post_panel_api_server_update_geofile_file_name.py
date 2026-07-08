@@ -9,7 +9,7 @@ from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_server_update_geofile_file_name_response_200 import (
     PostPanelApiServerUpdateGeofileFileNameResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

@@ -9,7 +9,7 @@ from ...models.post_panel_api_server_scan_reality_target_body import PostPanelAp
 from ...models.post_panel_api_server_scan_reality_target_response_200 import (
     PostPanelApiServerScanRealityTargetResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

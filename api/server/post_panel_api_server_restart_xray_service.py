@@ -11,7 +11,7 @@ from ...models.post_panel_api_server_restart_xray_service_response_200 import (
 from ...models.post_panel_api_server_restart_xray_service_response_400 import (
     PostPanelApiServerRestartXrayServiceResponse400,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs() -> dict[str, Any]:

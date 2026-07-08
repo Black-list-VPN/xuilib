@@ -6,7 +6,7 @@ import httpx
 from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.get_panel_api_server_get_web_cert_files_response_200 import GetPanelApiServerGetWebCertFilesResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs() -> dict[str, Any]:

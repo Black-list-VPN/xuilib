@@ -7,7 +7,7 @@ from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_hosts_bulk_set_enable_body import PostPanelApiHostsBulkSetEnableBody
 from ...models.post_panel_api_hosts_bulk_set_enable_response_200 import PostPanelApiHostsBulkSetEnableResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

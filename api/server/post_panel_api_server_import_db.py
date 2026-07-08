@@ -6,7 +6,7 @@ import httpx
 from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_server_import_db_response_200 import PostPanelApiServerImportDBResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs() -> dict[str, Any]:

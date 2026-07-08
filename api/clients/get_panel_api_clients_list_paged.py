@@ -6,7 +6,7 @@ import httpx
 from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.get_panel_api_clients_list_paged_response_200 import GetPanelApiClientsListPagedResponse200
-from ...types import UNSET, Response
+from ...xui_types import UNSET, Response
 
 
 def _get_kwargs(

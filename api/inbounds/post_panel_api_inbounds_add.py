@@ -8,7 +8,7 @@ from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_inbounds_add_body import PostPanelApiInboundsAddBody
 from ...models.post_panel_api_inbounds_add_response_200 import PostPanelApiInboundsAddResponse200
 from ...models.post_panel_api_inbounds_add_response_400 import PostPanelApiInboundsAddResponse400
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

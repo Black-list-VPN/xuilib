@@ -7,7 +7,7 @@ from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_clients_groups_delete_body import PostPanelApiClientsGroupsDeleteBody
 from ...models.post_panel_api_clients_groups_delete_response_200 import PostPanelApiClientsGroupsDeleteResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

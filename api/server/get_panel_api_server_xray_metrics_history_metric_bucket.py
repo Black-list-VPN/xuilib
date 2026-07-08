@@ -9,7 +9,7 @@ from ...client import AuthenticatedClient, Client
 from ...models.get_panel_api_server_xray_metrics_history_metric_bucket_response_200 import (
     GetPanelApiServerXrayMetricsHistoryMetricBucketResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

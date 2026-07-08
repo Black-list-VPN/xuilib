@@ -10,7 +10,7 @@ from ...models.post_panel_api_clients_email_external_links_body import PostPanel
 from ...models.post_panel_api_clients_email_external_links_response_200 import (
     PostPanelApiClientsEmailExternalLinksResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

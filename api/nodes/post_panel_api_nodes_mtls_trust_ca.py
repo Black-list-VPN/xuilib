@@ -7,7 +7,7 @@ from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_nodes_mtls_trust_ca_body import PostPanelApiNodesMtlsTrustCABody
 from ...models.post_panel_api_nodes_mtls_trust_ca_response_200 import PostPanelApiNodesMtlsTrustCAResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

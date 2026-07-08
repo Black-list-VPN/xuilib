@@ -9,7 +9,7 @@ from attrs import field as _attrs_field
 from ..models.node_inbound_sync_mode import NodeInboundSyncMode
 from ..models.node_scheme import NodeScheme
 from ..models.node_tls_verify_mode import NodeTlsVerifyMode
-from ..types import UNSET, Unset
+from ..xui_types import UNSET, Unset
 
 T = TypeVar("T", bound="Node")
 

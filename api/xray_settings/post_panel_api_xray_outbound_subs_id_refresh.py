@@ -9,7 +9,7 @@ from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_xray_outbound_subs_id_refresh_response_200 import (
     PostPanelApiXrayOutboundSubsIdRefreshResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

@@ -8,7 +8,7 @@ from attrs import field as _attrs_field
 
 from ..models.host_mihomo_ip_version import HostMihomoIpVersion
 from ..models.host_security import HostSecurity
-from ..types import UNSET, Unset
+from ..xui_types import UNSET, Unset
 
 T = TypeVar("T", bound="Host")
 

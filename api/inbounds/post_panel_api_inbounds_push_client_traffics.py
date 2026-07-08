@@ -9,7 +9,7 @@ from ...models.post_panel_api_inbounds_push_client_traffics_body import PostPane
 from ...models.post_panel_api_inbounds_push_client_traffics_response_200 import (
     PostPanelApiInboundsPushClientTrafficsResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

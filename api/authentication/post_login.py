@@ -8,7 +8,7 @@ from ...client import AuthenticatedClient, Client
 from ...models.post_login_body import PostLoginBody
 from ...models.post_login_response_200 import PostLoginResponse200
 from ...models.post_login_response_400 import PostLoginResponse400
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

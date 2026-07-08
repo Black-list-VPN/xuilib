@@ -7,7 +7,7 @@ import httpx
 from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.get_panel_api_server_cpu_history_bucket_response_200 import GetPanelApiServerCpuHistoryBucketResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

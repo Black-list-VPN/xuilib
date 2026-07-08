@@ -6,7 +6,7 @@ import httpx
 from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.get_panel_api_inbounds_list_response_200 import GetPanelApiInboundsListResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs() -> dict[str, Any]:

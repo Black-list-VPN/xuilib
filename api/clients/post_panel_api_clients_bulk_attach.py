@@ -7,7 +7,7 @@ from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_clients_bulk_attach_body import PostPanelApiClientsBulkAttachBody
 from ...models.post_panel_api_clients_bulk_attach_response_200 import PostPanelApiClientsBulkAttachResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

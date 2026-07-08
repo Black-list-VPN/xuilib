@@ -8,7 +8,7 @@ from ...client import AuthenticatedClient, Client
 from ...models.get_panel_api_xray_get_default_json_config_response_200 import (
     GetPanelApiXrayGetDefaultJsonConfigResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs() -> dict[str, Any]:

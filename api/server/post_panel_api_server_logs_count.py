@@ -8,7 +8,7 @@ from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_server_logs_count_body import PostPanelApiServerLogsCountBody
 from ...models.post_panel_api_server_logs_count_response_200 import PostPanelApiServerLogsCountResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

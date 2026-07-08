@@ -9,7 +9,7 @@ from ...client import AuthenticatedClient, Client
 from ...models.get_panel_api_clients_groups_name_emails_response_200 import (
     GetPanelApiClientsGroupsNameEmailsResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

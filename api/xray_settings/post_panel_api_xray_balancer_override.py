@@ -7,7 +7,7 @@ from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_xray_balancer_override_body import PostPanelApiXrayBalancerOverrideBody
 from ...models.post_panel_api_xray_balancer_override_response_200 import PostPanelApiXrayBalancerOverrideResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

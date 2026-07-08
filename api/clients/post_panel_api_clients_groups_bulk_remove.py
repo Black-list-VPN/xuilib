@@ -9,7 +9,7 @@ from ...models.post_panel_api_clients_groups_bulk_remove_body import PostPanelAp
 from ...models.post_panel_api_clients_groups_bulk_remove_response_200 import (
     PostPanelApiClientsGroupsBulkRemoveResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

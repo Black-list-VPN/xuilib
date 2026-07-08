@@ -7,7 +7,7 @@ import httpx
 from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_clients_del_email_response_200 import PostPanelApiClientsDelEmailResponse200
-from ...types import UNSET, Response
+from ...xui_types import UNSET, Response
 
 
 def _get_kwargs(

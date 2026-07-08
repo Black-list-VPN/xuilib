@@ -8,7 +8,7 @@ from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_clients_client_ips_by_guid_response_200 import (
     PostPanelApiClientsClientIpsByGuidResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs() -> dict[str, Any]:

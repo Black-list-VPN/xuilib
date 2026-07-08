@@ -9,7 +9,7 @@ from ...client import AuthenticatedClient, Client
 from ...models.post_panel_api_inbounds_id_reset_traffic_response_200 import (
     PostPanelApiInboundsIdResetTrafficResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

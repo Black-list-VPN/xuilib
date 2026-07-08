@@ -9,7 +9,7 @@ from ...models.post_panel_api_server_get_remote_cert_hash_body import PostPanelA
 from ...models.post_panel_api_server_get_remote_cert_hash_response_200 import (
     PostPanelApiServerGetRemoteCertHashResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

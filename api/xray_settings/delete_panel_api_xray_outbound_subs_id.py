@@ -7,7 +7,7 @@ import httpx
 from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.delete_panel_api_xray_outbound_subs_id_response_200 import DeletePanelApiXrayOutboundSubsIdResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

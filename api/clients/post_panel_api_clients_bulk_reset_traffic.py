@@ -9,7 +9,7 @@ from ...models.post_panel_api_clients_bulk_reset_traffic_body import PostPanelAp
 from ...models.post_panel_api_clients_bulk_reset_traffic_response_200 import (
     PostPanelApiClientsBulkResetTrafficResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

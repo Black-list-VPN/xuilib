@@ -10,7 +10,7 @@ from ...models.post_panel_api_setting_api_tokens_set_enabled_id_body import Post
 from ...models.post_panel_api_setting_api_tokens_set_enabled_id_response_200 import (
     PostPanelApiSettingApiTokensSetEnabledIdResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

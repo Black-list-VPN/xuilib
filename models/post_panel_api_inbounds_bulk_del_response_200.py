@@ -6,7 +6,7 @@ from typing import Any, TypeVar
 from attrs import define as _attrs_define
 from attrs import field as _attrs_field
 
-from ..types import UNSET, Unset
+from ..xui_types import UNSET, Unset
 
 T = TypeVar("T", bound="PostPanelApiInboundsBulkDelResponse200")
 

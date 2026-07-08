@@ -7,7 +7,7 @@ import httpx
 from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.get_sub_path_subid_response_200 import GetSubPathSubidResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

@@ -9,7 +9,7 @@ from attrs import field as _attrs_field
 from ..models.inbound_protocol import InboundProtocol
 from ..models.inbound_share_addr_strategy import InboundShareAddrStrategy
 from ..models.inbound_traffic_reset import InboundTrafficReset
-from ..types import UNSET, Unset
+from ..xui_types import UNSET, Unset
 
 if TYPE_CHECKING:
     from ..models.client_traffic import ClientTraffic

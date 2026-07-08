@@ -9,7 +9,7 @@ from ...models.post_panel_api_server_set_update_channel_body import PostPanelApi
 from ...models.post_panel_api_server_set_update_channel_response_200 import (
     PostPanelApiServerSetUpdateChannelResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

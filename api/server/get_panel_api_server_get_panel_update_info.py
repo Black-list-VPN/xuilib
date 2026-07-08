@@ -8,7 +8,7 @@ from ...client import AuthenticatedClient, Client
 from ...models.get_panel_api_server_get_panel_update_info_response_200 import (
     GetPanelApiServerGetPanelUpdateInfoResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs() -> dict[str, Any]:

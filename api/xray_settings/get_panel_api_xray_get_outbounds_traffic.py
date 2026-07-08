@@ -8,7 +8,7 @@ from ...client import AuthenticatedClient, Client
 from ...models.get_panel_api_xray_get_outbounds_traffic_response_200 import (
     GetPanelApiXrayGetOutboundsTrafficResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs() -> dict[str, Any]:

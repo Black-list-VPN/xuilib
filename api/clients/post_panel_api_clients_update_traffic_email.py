@@ -10,7 +10,7 @@ from ...models.post_panel_api_clients_update_traffic_email_body import PostPanel
 from ...models.post_panel_api_clients_update_traffic_email_response_200 import (
     PostPanelApiClientsUpdateTrafficEmailResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

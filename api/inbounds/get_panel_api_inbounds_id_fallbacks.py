@@ -7,7 +7,7 @@ import httpx
 from ... import errors
 from ...client import AuthenticatedClient, Client
 from ...models.get_panel_api_inbounds_id_fallbacks_response_200 import GetPanelApiInboundsIdFallbacksResponse200
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

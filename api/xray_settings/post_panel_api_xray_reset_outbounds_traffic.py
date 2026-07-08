@@ -9,7 +9,7 @@ from ...models.post_panel_api_xray_reset_outbounds_traffic_body import PostPanel
 from ...models.post_panel_api_xray_reset_outbounds_traffic_response_200 import (
     PostPanelApiXrayResetOutboundsTrafficResponse200,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(

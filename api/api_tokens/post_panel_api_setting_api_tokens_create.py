@@ -12,7 +12,7 @@ from ...models.post_panel_api_setting_api_tokens_create_response_200 import (
 from ...models.post_panel_api_setting_api_tokens_create_response_400 import (
     PostPanelApiSettingApiTokensCreateResponse400,
 )
-from ...types import Response
+from ...xui_types import Response
 
 
 def _get_kwargs(
